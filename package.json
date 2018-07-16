@@ -54,7 +54,7 @@
     "requirejs": "^2.3.2",
     "sauce-tunnel": "^2.5.0",
     "uglify-js": "2.7.5",
-    "webpack": "^1.14.0"
+    "webpack": "^4.16.1"
   },
   "greenkeeper": {
     "ignore": [
